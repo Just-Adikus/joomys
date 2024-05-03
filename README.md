@@ -88,14 +88,35 @@ https://code.visualstudio.com
 
 #### 3. Уставновка Android Studio и Andoid Toolkit
 
-
-<img src="https://www.androidpolice.com/wp-content/uploads/2020/10/10/android-studio-logo-hero_ITvLb9SXwyXu.png" width="900" height="600"
+<img src="https://github.com/Just-Adikus/joomys/assets/74231081/121889ce-8f72-48ab-8f40-782710048eea" width = 300 height =300
 />
 
 - Android Studio нам нужен для сборки нашего приложения Flutter, под платформу Android, а также для конторля среды и активного инструментария для сборки. Так что нужно перейти на официальный сайт для загрузки Android Studio.
 ```
 https://developer.android.com/studio
 ```
+
+- После установки Android Studio нужно его соответсвенно запустить. И в меню нужно найти b нажать на иконку трех точек. Откроется доп. меню с опциями. Там нужно выбрать SDK Manager.
+
+<img src="https://github.com/Just-Adikus/joomys/assets/74231081/4f02a19c-7b2f-426e-b1ce-fb3bb6773942"
+/>
+
+- В SDK Manager-е нужно выбрать платформы SDK, можно выбрать одну а можно несколько.
+  
+![image](https://github.com/Just-Adikus/joomys/assets/74231081/136c9957-18d1-4ae4-9e28-7f737da483a6)
+
+- Также нужно выбрать инструментарий SDK, то есть SDK Tools. Нужно просто проставить галочки, можно сделать как на картинке, и нажать кнопку "Apply"
+  
+![image](https://github.com/Just-Adikus/joomys/assets/74231081/43bc901f-0417-4742-b162-7645b3fd57b7)
+
+- Начнется загрузка
+
+![image](https://github.com/Just-Adikus/joomys/assets/74231081/e59477d1-12e4-4237-981e-f07703d16523)
+
+
+
+
+
 
 
 
