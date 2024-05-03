@@ -18,7 +18,7 @@ https://github.com/adaskhan/joomys
 
 Но я на всякий случай распишу пошаговое руководство.
 
-#### 1. Уставновка Flutter SDK
+#### 1. Установка Flutter SDK
 
 <img src="https://meterpreter.org/wp-content/uploads/2018/09/flutter.png" width="600" height="300"
 />
@@ -31,7 +31,7 @@ https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flu
 - Разархивируйте zip файл в удобную для вас директорию. Я например, выбрал директорию "Документы"
 
 ![image](https://github.com/Just-Adikus/joomys/assets/74231081/be6a4120-7f3a-41b9-b661-be8c811ca5fb)
-> P.S не обращяйте на мою версию flutter-а
+> P.S не обращайте внимание на мою версию flutter-а
 
 - После скопируйте путь до файла bin внутри разархивированного zip файла.Данный скопированный путь еще пригодится
 
@@ -65,7 +65,7 @@ flutter doctor -v
 
 > Возможно вывод команды у вас будет другой с ошибками, но не стоит беспокоиться. Ведь это лишь начало уставновки.
 
-#### 2. Уставновка VS Code
+#### 2. Установка VS Code
 
 <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="300" height="300"
 />
@@ -86,7 +86,7 @@ https://code.visualstudio.com
 ![image](https://github.com/Just-Adikus/joomys/assets/74231081/ea70889c-f2b4-407b-b33a-6a28c80ef2e7)
 
 
-#### 3. Уставновка Android Studio и Andoid Toolkit
+#### 3. Установка Android Studio и Andoid Toolkit
 
 <img src="https://github.com/Just-Adikus/joomys/assets/74231081/121889ce-8f72-48ab-8f40-782710048eea" width = 300 height =300
 />
@@ -96,7 +96,7 @@ https://code.visualstudio.com
 https://developer.android.com/studio
 ```
 
-- После установки Android Studio нужно его соответсвенно запустить. И в меню нужно найти b нажать на иконку трех точек. Откроется доп. меню с опциями. Там нужно выбрать SDK Manager.
+- После установки Android Studio нужно его соответсвенно запустить. И в меню нужно найти и нажать на иконку трех точек. Откроется доп. меню с опциями. Там нужно выбрать SDK Manager.
 
 <img src="https://github.com/Just-Adikus/joomys/assets/74231081/4f02a19c-7b2f-426e-b1ce-fb3bb6773942"
 />
