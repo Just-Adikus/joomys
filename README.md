@@ -20,6 +20,9 @@ https://github.com/adaskhan/joomys
 
 #### 1. Уставновка Flutter SDK
 
+<img src="https://meterpreter.org/wp-content/uploads/2018/09/flutter.png" width="600" height="300"
+/>
+
 - Установка на Windows OS. Перейдите по ссылке и установите zip файл flutter_windows_3.19.6-stable.zip
 
 ```
@@ -62,8 +65,40 @@ flutter doctor -v
 
 > Возможно вывод команды у вас будет другой с ошибками, но не стоит беспокоиться. Ведь это лишь начало уставновки.
 
+#### 2. Уставновка VS Code
 
-    
+<img src="https://code.visualstudio.com/assets/images/code-stable.png" width="300" height="300"
+/>
+
+- VS Code нам нужен для запуска нашего приложения Flutter, поэтому важно установить его. Так что нужно перейти на официальный сайт для загрузки VS Code.
+
+```
+https://code.visualstudio.com
+```
+
+- Устанавливаем его и запускаем. После запуска внутри самого VS Code нужно установаить два расширения
+> Расширение Dart  
+
+![image](https://github.com/Just-Adikus/joomys/assets/74231081/82996c01-b19c-4b8a-a6ff-01295b9b3fcf)
+
+> Расширение Flutter
+
+![image](https://github.com/Just-Adikus/joomys/assets/74231081/ea70889c-f2b4-407b-b33a-6a28c80ef2e7)
+
+
+#### 3. Уставновка Android Studio и Andoid Toolkit
+
+
+<img src="https://www.androidpolice.com/wp-content/uploads/2020/10/10/android-studio-logo-hero_ITvLb9SXwyXu.png" width="900" height="600"
+/>
+
+- Android Studio нам нужен для сборки нашего приложения Flutter, под платформу Android, а также для конторля среды и активного инструментария для сборки. Так что нужно перейти на официальный сайт для загрузки Android Studio.
+```
+https://developer.android.com/studio
+```
+
+
+
 
 
 
