@@ -147,11 +147,20 @@ https://developer.android.com/studio
 ```
 flutter doctor -v
 ```
-- Дальше клонируем этот репозиторий
+- Дальше клонируем этот репозиторий Flutter приложения
   
 ```
-flutter doctor -v
+git clone https://github.com/Just-Adikus/joomys.git
 ```
+
+- Запускаем параллельно backend часть на Python командой
+
+```bash
+python manage.py runserver 0.0.0.0:8000
+```
+- Открываем клонированный репозиторий Flutter приложения в VS Code
+![image](https://github.com/Just-Adikus/joomys/assets/74231081/ce18d604-ce84-496e-90ed-5234c48e7f53)
+  
 
 
 
