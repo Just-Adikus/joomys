@@ -107,11 +107,53 @@ https://developer.android.com/studio
 
 - Также нужно выбрать инструментарий SDK, то есть SDK Tools. Нужно просто проставить галочки, можно сделать как на картинке, и нажать кнопку "Apply"
   
-![image](https://github.com/Just-Adikus/joomys/assets/74231081/43bc901f-0417-4742-b162-7645b3fd57b7)
+![image](https://github.com/Just-Adikus/joomys/assets/74231081/7f8211a5-c879-4f91-be5e-8057cb108a27)
 
 - Начнется загрузка
 
 ![image](https://github.com/Just-Adikus/joomys/assets/74231081/e59477d1-12e4-4237-981e-f07703d16523)
+
+- После окончания нужно нажать на кнопку "Finish"
+
+![image](https://github.com/Just-Adikus/joomys/assets/74231081/13cc9181-afc8-42bd-9c26-554af888cff6)
+
+- Снова нужно нажать на три точки и перейти уже в Virtual Device Manager. Для создания эмулятора Android
+  
+![image](https://github.com/Just-Adikus/joomys/assets/74231081/b6878af8-5661-491e-b63b-dc35dadde19b)
+
+-  В Virtual Device Manager создаем эмулятор Android для этого нажимаем на кнопку "Create Device". Выбираем подходящий девайс для эмуляции и нажимаем "Next"
+
+![image](https://github.com/Just-Adikus/joomys/assets/74231081/b21a2a04-34ce-4f4b-891c-3ea6e439848c)
+
+
+- Выбираем ранее установленный Android API (Android SDK). Снова нажимаем "Next"
+
+![image](https://github.com/Just-Adikus/joomys/assets/74231081/dc6eca90-bc9c-42a3-a51a-9b76467058c3)
+
+- Подтверждаем конфигурацию. Кнопка "Finish"
+
+![image](https://github.com/Just-Adikus/joomys/assets/74231081/bccf3a79-36d7-49c8-a142-3353fea99c8f)
+ 
+- Вуаля эмулятор создан
+  
+![image](https://github.com/Just-Adikus/joomys/assets/74231081/d3b30e3b-be6f-432b-96f7-3515b11d2da8)
+
+> Выходим из Android Studio
+
+#### 4. Настройка проекта
+
+- Снова проверяем конфигурацию flutter-а
+
+```
+flutter doctor -v
+```
+- Дальше клонируем этот репозиторий
+  
+```
+flutter doctor -v
+```
+
+
 
 
 
